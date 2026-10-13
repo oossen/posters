@@ -4,7 +4,7 @@
 
 We implemented different distillation methods for making a faster motion detection network. My method is in red.
 
-[![Poster 1](Poster/thumbnails/dl lab.png)](Poster/dl lab.pdf)
+[![Poster 1](<Poster/thumbnails/dl lab.png>)](<Poster/dl lab.pdf>)
 
 ## Bayesian Tabular Few-shot Learning with Causal Information
 
@@ -16,7 +16,7 @@ For my Master project, I developed a method for incorporating graphical informat
 
 We used a causal foundation model for feature selection.
 
-[![Poster 3](Poster/thumbnails/tabular foundation models.png)](Poster/tabular foundation models.pdf)
+[![Poster 3](<Poster/thumbnails/tabular foundation models.png>)](<Poster/tabular foundation models.pdf>)
 
 ## Automatic Selection of Fine-tuning Distributions for a TabPFN Regressor (with Julius Schmitt, René Sprünken)
 
